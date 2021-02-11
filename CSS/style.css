@@ -1,0 +1,96 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0 0 0 0;
+}
+
+/* HEADING SECTION */
+
+.heading {
+  background-color: #CEFBFF;
+  width: 1600px;
+  height: 660px;
+  border: 1px solid #707070;
+}
+
+.title {
+  margin-top: 0px;
+  color: #707070;
+  font-size: 90px;
+  padding-left: 145px;
+  padding-top: 120px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.subtitle {
+  font-family: "Courier New", serif;
+  color: #707070;
+  font-size: 35px;
+  margin-left: 145px;
+  padding-top: 50px;
+  margin-top: 0px;
+}
+
+.contact {
+  width: 322px;
+  height: 78px;
+  background-color: #240202;
+  margin-left: 145px;
+  margin-top: 55px;
+}
+
+.contact button {
+  color: #FFFFFF;
+  font-size: 35px;
+  border: 2px solid #0039BA;
+  background-color: #240202;
+  text-align: left;
+  font-family: "Merriweather", serif;
+  width: 322px;
+  height: 78px;
+}
+
+/* MEDIUM SECTION */
+
+.medium-section h2 {
+  color: #707070;
+  font-size: 70px;
+  padding-top: 105px;
+  padding-left: 146px;
+  margin-bottom: 0px;
+}
+
+.medium-section p {
+  font-size: 22px;
+  padding-left: 152px;
+  padding-right: 138px;
+}
+
+.medium-section span {
+  color: #FF0000;
+  text-decoration: underline;
+  padding-left: 152px;
+  margin-bottom: 143px;
+}
+
+.medium-section .space {
+  border: 2px solid #707070;
+  width: 1310px;
+  margin-left: 151.5px;
+}
+
+/* ENDING SECTION */
+
+.ending {
+  background-color: #CEFBFF;
+  width: 1600px;
+}
+
+.ending p {
+  padding-left: 152px;
+  padding-top: 81px;
+  padding-bottom: 205px;
+  margin-top: 143px;
+  margin-bottom: 0px;
+}
+
+/*@Landriscina Luca*/
